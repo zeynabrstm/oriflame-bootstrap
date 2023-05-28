@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[130],{68618:function(n,t,a){a.d(t,{k4r:function(){return getTenantApplicationsNavigationNavigation}});a(87105),a(61947);var getTenantApplicationsNavigationNavigation=function(n,t,a,e,c){return n.createFetcher()({url:"/tenants/".concat(t,"/applications/navigation/navigations/").concat(a),method:"get",params:e},c)}}}]);
+//# sourceMappingURL=b146a4c1-b26b1b38228ec126.js.map

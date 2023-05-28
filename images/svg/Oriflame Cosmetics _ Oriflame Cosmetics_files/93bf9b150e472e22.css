@@ -1,0 +1,2 @@
+.top-nav{--top-nav-height-animation:0.3s ease-in-out;--top-nav-height:80px}.top-nav--is-shrunk{--top-nav-height:60px}.top-nav--is-mobile{--top-nav-height:56px}#online-top-area-root.top-nav--is-loaded{height:var(--top-nav-height);transition:height var(--top-nav-height-animation)}
+/*# sourceMappingURL=93bf9b150e472e22.css.map*/

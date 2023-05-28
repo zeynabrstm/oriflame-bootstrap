@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div.menu{
+    height:80px;
+}
+div.oriflame{
+  
+    margin-right: 30px;
+    font-size: 10px;
+        
+}
+
+ div.input{
+    margin: auto;
+    
+ }
+
+ div.input>i{
+   
+ }
+ div.input>input{
+   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 15px;
+width: 50%;
+height: auto;
+background-color: rgb(235, 232, 232);
+border: 1px solid rgb(235, 232, 232);
+padding: 15px;
+margin-left:40px;
+ }
+div.bestoffer{
+  
+    /* border: 1px solid red; */
+    padding: 20px;
+}
+div.all{
+   
+    /* border: 1px solid green; */
+ }
+ .container {
+    position: relative;
+    width: 50%;
+  }
+   
+  /* Make the image responsive */
+  .container img {
+    width: 100%;
+    height: auto;
+  }
+   
+  /* Style the button and place it in the middle of the container/image */
+  .container {
+    position: relative;
+    width: 50%;
+  }
+   
+  /* Make the image responsive */
+  .container img {
+    width: 100%;
+    height: auto;
+  }
+   
+ 
+   
+  .container .btn:hover {
+    background-color: black;
+  }
+  .container .btn:hover {
+    background-color: black;
+  }
